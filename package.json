@@ -1,7 +1,7 @@
 {
   "name": "DOT_lib",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/signDot.js",
   "repository": "git@github.com:trudyan141/DOT_lib.git",
   "author": "trunglk-ibl <trunglk@blockchainlabs.asia>",
   "license": "MIT",
